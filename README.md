@@ -11,5 +11,5 @@
 <br><br><br><br><br>
 <div>
 <h3>Mainframe Badges</h3>
-<a href="https://www.credly.com/earner/earned/badge/722748d9-fa32-48cd-a948-cac0f5fafd60" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Practitioner" height="100px"/> </a>
+<a href="https://www.credly.com/earner/earned/badge/de9c7428-fcb0-4493-ab90-0c19f12f3077" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/6ed66be2-3169-4d8a-b7d3-fb9a579b8393/Interskill_-_Main_Spec_-_TSO-ISPF.png" alt="Interskill - Mainframe Specialist - TSO and ISPF" height="100px"/> </a>
 </div>
